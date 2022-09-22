@@ -1,1 +1,1 @@
-Repository for all practice projects.
+Branch for practicing react.
